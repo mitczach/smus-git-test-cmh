@@ -1,5 +1,5 @@
 # smus-git-test-cmh
 
-Test repo for SMUS Git integration.
+This line was edited on GitHub to create a conflict.
 
-Edited from GitHub to test cross-account pull.
+Edited from GitHub - second time.
